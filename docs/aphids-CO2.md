@@ -3,7 +3,7 @@ Samin Lu-Sullivan
 
 400186014 
 
-iSci 3A12 
+ISCI 3A12 
 
 February 14, 2020
 
