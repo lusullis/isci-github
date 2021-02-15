@@ -9,7 +9,7 @@ February 14, 2020
 
 
 # Top 5 Articles List 
-1. [Effects of Elevated CO2 on the Development and Fecundity of an Aphid Pest](http://www.co2science.org/articles/V24/feb/a3.php)
+1. [Effects of Elevated CO<sub>2</sub> on the Development and Fecundity of an Aphid Pest](http://www.co2science.org/articles/V24/feb/a3.php)
     * This article argued that rising CO<sub>2</sub> levels reduces the impacts of aphids on wheat and also helps with wheat production. 
     * The authors used a scientific paper, plus several of their data points to support their claim, as well as mentioning that Navarro et. al also stated that rising CO2 levels could help in wheat production. 
 
@@ -30,7 +30,7 @@ February 14, 2020
     * The author conducted their own research using wavelet analysis to prove their point with data collected from reputable sources, an extensive list of scientific articles, and relevant diagrams. 
 
 # Evaluation of "Effects of Elevated CO<sub>2</sub> on the Development and Fecundity of an Aphid Pest"
-CO2 Science 2021. Effects of Elevated CO2 on the Development and Fecundity of an Aphid Pest. [online] CO2 Science. Available at: <http://www.co2science.org/articles/V24/feb/a3.php>.  
+CO<sub>2</sub> Science 2021. Effects of Elevated CO<sub>2</sub> on the Development and Fecundity of an Aphid Pest. [online] CO<sub>2</sub> Science. Available at: <http://www.co2science.org/articles/V24/feb/a3.php>.  
 
 This article argues for the positive impacts of increased carbon dioxide (CO<sub>2</sub>) levels on the development and performance of bird cherry-oat aphids, a common cereal pest. The article author's overall argument was that since increased CO<sub>2</sub> levels interferes with aphid development and proliferation, while also increasing wheat crop yields, higher CO<sub>2</sub> levels are actually beneficial for humans. This article is of interest because globally, pests are responsible for destroying around 30-40% of crops harvested annually, and expensive and harmful pesticides are required to treat them (Carreras Navarro, Lam and Trębicki, 2020). However, in contrast to the conclusions present in the article, any benefits of increased CO<sub>2</sub> levels for plant and pest treatment are negated by other climate change effects.  
 This article is not credible. The author of this article works at CO<sub>2</sub> Science who have a clear goal — convincing their audience that rising CO<sub>2</sub> levels are not important. None of the articles written by CO<sub>2</sub> officials had a specific author to check the credentials of. The article also had only one reference, from the paper they analyzed; however, they twisted the information to suit their stance and ignored facts that refuted their claims. This source is heavily opinionated, biased, and has a clear social agenda of discounting climate change, and as such this is not a good information source.   
