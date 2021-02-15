@@ -43,14 +43,14 @@ In all the mentioned articles, they twisted information from reputable sources t
 
 # Works Cited 
 
-CO2 Science, 2021. Effects of Elevated CO2 on the Development and Fecundity of an Aphid Pest. [online] CO2 Science. Available at: <http://www.co2science.org/articles/V24/feb/a3.php>.
+CO2 Science, 2021. *Effects of Elevated CO2 on the Development and Fecundity of an Aphid Pest*. [online] CO2 Science. Available at: <http://www.co2science.org/articles/V24/feb/a3.php>.
 
-Carreras Navarro, E., Lam, S.K. and Trębicki, P., 2020. Elevated Carbon Dioxide and Nitrogen Impact Wheat and Its Aphid Pest. Frontiers in Plant Science, [online] 11. Available at: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7736075/> [Accessed 14 Feb. 2021].
+Carreras Navarro, E., Lam, S.K. and Trębicki, P., 2020. Elevated Carbon Dioxide and Nitrogen Impact Wheat and Its Aphid Pest. *Frontiers in Plant Science*, [online] 11. Available at: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7736075/> [Accessed 14 Feb. 2021].
 
-Cho, R., 2018. How Climate Change Will Alter Our Food. State of the Planet. Available at: <https://blogs.ei.columbia.edu/2018/07/25/climate-change-food-agriculture/> [Accessed 14 Feb. 2021].
+Cho, R., 2018. How Climate Change Will Alter Our Food. *State of the Planet*. Available at: <https://blogs.ei.columbia.edu/2018/07/25/climate-change-food-agriculture/> [Accessed 14 Feb. 2021].
 
-Government of Canada, 2012. Climate scenarios for agriculture. [educational material] Available at: <https://www.agr.gc.ca/eng/agriculture-and-the-environment/agricultural-practices/climate-change-and-agriculture/climate-scenarios-for-agriculture/?id=1329321981630> [Accessed 14 Feb. 2021].
+Sun, Y. and Ge, F., 2011. How do aphids respond to elevated CO2? *Journal of Asia-Pacific Entomology*, 14(2), pp.217–220.
 
-Thompson, L.G., 2010. Climate Change: The Evidence and Our Options. The Behavior Analyst, 33(2), pp.153–170.
+Thompson, L.G., 2010. Climate Change: The Evidence and Our Options. *The Behavior Analyst*, 33(2), pp.153–170.
 
-Tigchelaar, M., Battisti, D.S., Naylor, R.L. and Ray, D.K., 2018. Future warming increases probability of globally synchronized maize production shocks. Proceedings of the National Academy of Sciences, 115(26), pp.6644–6649.
+Tigchelaar, M., Battisti, D.S., Naylor, R.L. and Ray, D.K., 2018. Future warming increases probability of globally synchronized maize production shocks. *Proceedings of the National Academy of Sciences*, 115(26), pp.6644–6649.
