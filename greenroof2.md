@@ -1,4 +1,4 @@
-# Hamilton Green Roof Project: Executive Summary
+# Haimlton Green Roof Project: Executive Summary
 Group 8 - Zargham Ahmed, Samin Lu-Sullivan, Maia Moore, Keshikaa Suthaaharan  
 March 14, 2021  
 ISCI 3A12: Climate Change
