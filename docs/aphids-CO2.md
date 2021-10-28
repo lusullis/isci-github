@@ -15,7 +15,7 @@ The argument made in this article is that hurricane frequency and intensity has 
 
 Gosselin, P., 2021. Analysis: Hurricanes Have Not Gotten More Intense, Frequent Over Past 170 Years. NoTricksZone. Available at: <https://notrickszone.com/2021/10/10/analysis-hurricanes-have-not-gotten-more-intense-frequent-over-past-170-years/>.
 
-## Other Citations:
+Other Citations:
 
 IPCC, 2013: Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change [Stocker, T.F., D. Qin, G.-K. Plattner, M. Tignor, S.K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex and P.M. Midgley (eds.)]. Cambridge University Press, Cambridge, United Kingdom and New York, NY, USA, 1535 pp, doi:10.1017/CBO9781107415324.
 
